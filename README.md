@@ -1,7 +1,9 @@
 #### About me
-- 🔭 Currently studying at **CIMeC**, in Rovereto (Italy)
+- 👅 Currently doing my internship at **Inria Paris**, at the ALMAnaCH Lab
+- 🔭 Pursuing my Master at **CIMeC** (UniTN, Italy)
 - 😻 Want to improve in **Reinforcement Learning** and **ML** in general
 - 🗻 An explorer! Hiking, climbing, rafting, canyoning...count me in!
+- 🍿 ...but also up for a good movie, a concert or whatever art!
 
 #### Contact me
 - [LinkedIn](https://www.linkedin.com/in/giovanniduca13/)
