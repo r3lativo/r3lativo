@@ -8,5 +8,3 @@
 
 #### Contact me
 - [LinkedIn](https://www.linkedin.com/in/giovanniduca13/)
-- [Discord](https://discordapp.com/users/r3lativo#4280)
-- Personal email: gio.duca13d \[at\] gmail.com
