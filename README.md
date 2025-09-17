@@ -5,6 +5,3 @@
 - 🤖 Working on **Reinforcement Learning** and **ML** in general
 - 😻 Love for linguistics and pragmatics in particular
 - 🎨 ...but also up for a good movie, a concert, a tour in a museum, or whatever art!
-
-#### Contact me
-- [LinkedIn](https://www.linkedin.com/in/giovanniduca13/)
